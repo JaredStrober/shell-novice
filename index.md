@@ -25,3 +25,6 @@ you to this powerful tool.
 > and scripts, you probably want to explore the next lesson:
 > [shell-extras](https://carpentries-incubator.github.io/shell-extras/).
 {: .prereq}
+
+
+Unclear why I need to do this...
